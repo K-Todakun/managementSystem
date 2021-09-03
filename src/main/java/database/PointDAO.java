@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PointDAO {
-    private static final String URL = "jdbc:h2:~/h2db/management;AUTO_SERVER=TRUE;MODE=PostgreSQL";
+    private static final String URL = "jdbc:h2:~/h2db/dbe;AUTO_SERVER=TRUE;MODE=PostgreSQL";
     private static final String USER_NAME = "b2191560";
     private static final String USER_PASS = "b2191560";
 
